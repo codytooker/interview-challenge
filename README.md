@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-Start by cloning this repo.
+Start by forking this repo.
 
 ### Fronend /JS
 
